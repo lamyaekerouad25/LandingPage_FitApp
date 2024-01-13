@@ -69,18 +69,19 @@ export const initialState = {
 
     sectionList: [
         {
-            'title': `Discover the power of Personalized Workouts`,
-            'text': `Get personalized workouts based on your fitness goals and preferences. Whether you want to lose weight, build muscle, or just stay healthy, we have a workout for you!`,
+            'title': `Unlock the potential of Tailored Fitness Plans`,
+            'text': `Experience customized workout routines designed specifically for your fitness aspirations and individual preferences. Whether you're aiming to shed pounds, enhance muscle tone, or simply maintain overall health, we've got a workout regimen uniquely crafted for you!`,
             'image': one,
         },
         {
             'title': `Schedule your workouts and make fitness a habit`,
-            'text': ` Schedule your workouts and make fitness a habit. We'll send you reminders so you never miss a workout!`,
+            'text': ` Integrate regular workouts seamlessly into your routine, making fitness a habitual part of your lifestyle. Receive timely reminders to help you stay on track and never skip a workout!`,
             'image': two,
         },
         {
-            'title': `Visualise your fitness journey with our progress tracker`,
-            'text': `Track your progress with our progress tracker. See how far you've come and what you need to do next to reach your goals!`,
+            'title': `Visualize your fitness journey with our progress tracker
+            `,
+            'text': `Envision your fitness path using our progress tracking feature. Monitor your journey, observe your achievements, and identify the next steps towards reaching your goals!`,
             'image': three,
         },
     ],
