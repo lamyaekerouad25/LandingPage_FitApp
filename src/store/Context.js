@@ -1,6 +1,6 @@
 import React from 'react'
 
-import appLogo from '../images/logo.png'
+import appLogo from '../images/logoo.jpg'
 
 import appleStoreBadge from '../images/apple_store_badge.svg'
 import googlePlayBadge from '../images/google_play_badge.png'
@@ -27,7 +27,7 @@ export const initialState = {
     appURL: 'http://localhost:3000',
 
     appLogo: appLogo,
-    appName: 'Fitness Time',
+    appName: 'FitTrack Assistant',
 
     coverTitle: 'Get in shape with Fitness Time',
     coverText: 'Fitness Time is a fitness app that helps you get in shape and stay in shape. It is a great way to track your progress and stay motivated. You can also connect with other users to share tips and tricks for staying healthy. Join today!',
